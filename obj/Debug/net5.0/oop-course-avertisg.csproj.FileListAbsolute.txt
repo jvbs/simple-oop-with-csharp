@@ -1,0 +1,16 @@
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/bin/Debug/net5.0/oop-course-avertisg
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/bin/Debug/net5.0/oop-course-avertisg.deps.json
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/bin/Debug/net5.0/oop-course-avertisg.runtimeconfig.json
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/bin/Debug/net5.0/oop-course-avertisg.runtimeconfig.dev.json
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/bin/Debug/net5.0/oop-course-avertisg.dll
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/bin/Debug/net5.0/ref/oop-course-avertisg.dll
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/bin/Debug/net5.0/oop-course-avertisg.pdb
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/obj/Debug/net5.0/oop-course-avertisg.csproj.AssemblyReference.cache
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/obj/Debug/net5.0/oop-course-avertisg.GeneratedMSBuildEditorConfig.editorconfig
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/obj/Debug/net5.0/oop-course-avertisg.AssemblyInfoInputs.cache
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/obj/Debug/net5.0/oop-course-avertisg.AssemblyInfo.cs
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/obj/Debug/net5.0/oop-course-avertisg.csproj.CoreCompileInputs.cache
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/obj/Debug/net5.0/oop-course-avertisg.dll
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/obj/Debug/net5.0/ref/oop-course-avertisg.dll
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/obj/Debug/net5.0/oop-course-avertisg.pdb
+/home/jvbs/Development/studies/csharp/oop-course-avertisg/obj/Debug/net5.0/oop-course-avertisg.genruntimeconfig.cache
